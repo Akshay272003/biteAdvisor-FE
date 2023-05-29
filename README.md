@@ -36,11 +36,11 @@ To install and run the restaurant review website locally, follow these steps:
 
 ## What's Next
 
-[ ] : Have to feature to enter reviews. </br>
-[ ] : Add Map functionality </br>
-[ ] : Create a profile to save your favorite restaurants and write your own reviews.
-[ ] : Add Filters to search restaurants based on price, rating, etc.
-[ ] : Add Favourites
+- [ ] : Have to feature to enter reviews. </br>
+- [ ] : Add Map functionality </br>
+- [ ] : Create a profile to save your favorite restaurants and write your own reviews.
+- [ ] : Add Filters to search restaurants based on price, rating, etc.
+- [ ] : Add Favourites
 
 ## Conclusion
 
